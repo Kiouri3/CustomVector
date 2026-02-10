@@ -29,7 +29,7 @@
 - Для Windows: MSYS2/Mingw-w64 или Visual Studio
 
 ### Быстрый старт
-```bash```
+```bash
 # Клонирование репозитория
 git clone https://github.com/твой-username/CustomVector-CPP.git
 cd CustomVector-CPP

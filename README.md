@@ -31,7 +31,7 @@
 ### Быстрый старт
 ```bash
 # Клонирование репозитория
-git clone https://github.com/твой-username/CustomVector-CPP.git
+git clone https://github.com/Kiouri3/CustomVector-CPP.git
 cd CustomVector-CPP
 
 # Сборка и запуск тестов (Linux/macOS)
